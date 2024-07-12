@@ -31,8 +31,8 @@ forge_compatible = false
 all_clients_require_mod = false
 client_only_mod = true
 
-icon_atlas = "modicon.xml"
-icon = "modicon.tex"
+icon_atlas = "tooltipify.xml"
+icon = "tooltipify.tex"
 
 server_filter_tags = { "api", "tooltip", "tooltips" }
 
