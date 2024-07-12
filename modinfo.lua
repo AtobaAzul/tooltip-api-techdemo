@@ -37,7 +37,11 @@ icon = "tooltipify.tex"
 server_filter_tags = { "api", "tooltip", "tooltips" }
 
 priority = 1
-
+mod_dependencies = {
+    {
+        workshop = "workshop-3287755680",
+    }
+}
 ------------------------------
 -- local functions to makes things prettier
 
