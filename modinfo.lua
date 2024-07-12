@@ -28,7 +28,8 @@ hamlet_compatible = false
 
 forge_compatible = false
 
-all_clients_require_mod = true
+all_clients_require_mod = false
+client_only_mod = true
 
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
